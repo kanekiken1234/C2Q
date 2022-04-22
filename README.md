@@ -36,5 +36,8 @@ change, it gets the document that has been inserted and sends it to the Web App.
 7. User can now use the file name to fetch the document of Questions and Answers and
 download it on their local file system as a text file.
 
+# Data Flow
+![image](https://user-images.githubusercontent.com/44396062/164587180-09f74cab-6c2b-40fa-82ec-7ef2c3af50c6.png)
+
 # Source Code:
 LINK -> https://drive.google.com/drive/folders/1uKembVa84yhnWWEzCcgE9rYmBsKVeqyc?usp=sharing
